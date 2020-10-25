@@ -29,5 +29,6 @@
 ### USE
   - Once you run make on the desired file, an executable will be created in the bin folder. 
   - ./filename to run 
-  - To remake, use make clean to delete the current obj directory (where the .d and .o files are storeed) and then run make again 
+  - To remake, use make clean to delete the current obj directory (where the .d and .o files are storeed) and then run make again
+  - Some programs will need .dat files to read points
   
