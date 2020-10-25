@@ -1,0 +1,8 @@
+Dubhe	289	190
+Merak	320	128
+Phecda	239	 67
+Megrez	194 	101
+Alioth	129	 83
+Mizar	 75	 73
+Alcor	 74	 74
+Alkaid	 20	 10
